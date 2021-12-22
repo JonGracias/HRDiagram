@@ -1,0 +1,12 @@
+Hertzsprung-Russel Diagram
+
+The creators credited for the Herzsprung-Russel Diagram are
+Ejnar Hertzsprung and Norris Russell. They created the diagram independently of each other.
+The diagram is a tool that helps astronomers study the correlations between the stars’
+luminosity (absolute magnitude) and effective temperature (stellar class) .
+The diagram can also help classify stars and interpret it’s size, distance,
+chemical composition, when compared to a reference which is the Sun.
+Furthermore, the diagram can help us understand the life cycles of stars by studying the
+stars in the Main Sequence we can understand common attributes of 90% of all stars. The  H-R diagram,
+spectral classes and absolute magnitude have been a huge tool for astronomers to discover different
+kinds of stars for instance, Super Giants and Giants.

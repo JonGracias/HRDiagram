@@ -1,0 +1,6 @@
+H-R Diagram Comes together
+
+Hertzsprung had already discovered the magnitude-spectral type
+relationship and mapped it on a diagram, but it wasn’t until
+Russel presented his version that the diagram became popularly used.
+That is why it was decided to call it the Hertzsprung-Russel diagram.

@@ -1,0 +1,25 @@
+Glossary
+•	Supergiant: Cool Stars found in the top right of the graph.
+    These stars are very large and very bright.
+
+•	Red Giants: Even cooler stars which are not as hot or bright.
+    They are above the main sequence but below the supergiant.
+
+•	Main Sequence: The diagonal section that runs from left to right.
+    It is where a majority of stars are located.
+
+•	White Dwarfs: A low-mass star that has exhausted most of it nuclear
+    fuel and has collapse to a small size. This the end stage of a stars life.
+    They are found in the lower left corner.
+
+•	Red Dwarfs: Cool small  stars that do not use a lot of their fuel and therefore
+    have a longer life. These are the most common type of star  located on the
+    coolest part of the main sequence M.
+
+•	Absolute Magnitude: The brightness of a star as it would be seen at a standard
+    distance of 10 parsecs.
+
+•	Spectral Class: Astronomers have devised a classification scheme which describes
+    the absorption lines of a spectrum. They have seven categories (OBAFGKM) each of
+    which is subdivided into 10 subclasses from 0-9.
+

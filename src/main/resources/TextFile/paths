@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <item images="src/main/resources/Images/">
+        <graph>"HRColor.png"</graph>
+        <magnitude>"magnitude.png"</magnitude>
+        <spectral>"spectral.png"</spectral>
+        <star>"star.png"</star>
+        <singlestar>"singlestar.png"</singlestar>
+    </item>
+
+    <item TextFile="src/main/resources/TextFile/">
+        <EH>"EjnarHertzsprung.txt.png"</EH>
+        <magnitude>"HenryNorrisRussel.txt.png"</magnitude>
+        <spectral>"howTo.txt"</spectral>
+        <star>"hrhistory.txt"</star>
+        <singlestar>"together.txt"</singlestar>
+    </item>
+</config>

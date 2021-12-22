@@ -1,0 +1,17 @@
+How to use an H-R Diagram
+
+H-R diagram is a temperature vs. luminosity graph. Temperature can be classified by its spectral class.
+Spectral class is a color index. They are ordered from hottest (blue) to coolest (red).
+The types are O,B,A,F,G,K. Absolute Magnitude is the brightness of  a star.
+It is dependent on surface area and temperature.
+For a star to have a high luminosity and a low temperature the star would have a large surface area. \
+For a star hot star to have the same luminosity as a cool star the hot star would have to be much smaller.
+
+This program requires that you select a new tab and enter a name for the star.
+To add a star enter a spectral class under Enter Spectral Class prompt
+letter type (O,B,A,F,G,K) followed by a number 0-9.
+
+Next enter a number under the Enter Spectral Class prompt (from -15 to 10).
+Then hit Add Star and a star will be added to the graph and to the tabbed panel.
+Click on star to delete it. Save a panel for future use.
+
